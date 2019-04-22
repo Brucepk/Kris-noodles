@@ -7,9 +7,9 @@ import jieba
 '''
 原创作者：pk哥
 Date：2019/4/20
-原创首发于公众号：Python知识圈
-公众号正在送 80 本 Python 书籍和 10000个当当优惠码，170可以买400的书，优惠skrrr！24号截止
-需要的可以看看：https://mp.weixin.qq.com/s/YEXdYCA2MuYa2x4-S1MsgQ'''
+原创首发于公众号：Python知识圈，欢迎关注查看更多精彩实战项目
+
+'''
 
 df = pd.read_csv('noodles.csv', header=None)
 
